@@ -1,1 +1,3 @@
-# Constant_test_StrictlyConvexGame
+# Credit_MARL
+
+This is a repo for credit assignment in MARL
